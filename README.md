@@ -11,7 +11,8 @@ A regression example from NumCpp using the pbPlots library
 ## You should move the following cpp files to your project diretory
 * pbPlots
 
-# C++14
+# C++ version
+## C++14
 
 # Links
 ## Numcpp
