@@ -1,6 +1,8 @@
 # NumPlot
 A regression example from NumCpp using the pbPlots library 
 
+![example](png/regs.png)
+
 # Include Directory
 ## You should include the following directories
 * pbPlots
